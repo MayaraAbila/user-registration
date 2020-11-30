@@ -1,0 +1,38 @@
+body {
+    background-color: gray;
+}
+
+.form {
+    border-radius: 14px;
+    opacity: 1;
+    width: 25vw;
+    height: 31vh;
+    margin: 18% 37%;
+    display: flex;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 22vw;
+    height: 28vh;
+    justify-content: center;
+    grid-gap: 20%;
+}
+
+input {
+    height: 10vw;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    padding: 2%;
+
+}
+
+#input {
+    background-color:#82cbe0;
+    color: white;
+    cursor: pointer;
+}
+
